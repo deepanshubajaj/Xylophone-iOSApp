@@ -30,7 +30,7 @@ To run this project locally:
 ## App Look :
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/appLook.jpg" alt="App Look" width="50%" />
+  <img src="ProjectOutputs/Snapshots/appLook.jpg" alt="App Look" width="30%" />
 </p>
 <p align="center">
   *App snapshot in the simulator.*
@@ -39,14 +39,14 @@ To run this project locally:
 ## Screenshots :
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/SScreen.jpg" alt="Splash Screen" width="50%" />
+  <img src="ProjectOutputs/Snapshots/SScreen.jpg" alt="Splash Screen" width="30%" />
 </p>
 <p align="center">
   *Splash screen displayed upon app launch.*
 </p>
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/mainScreen.jpg" alt="Main Screen" width="50%" />
+  <img src="ProjectOutputs/Snapshots/mainScreen.jpg" alt="Main Screen" width="30%" />
 </p>
 <p align="center">
   *Screenshot of the Xylophone app showing the main screen.*
@@ -55,7 +55,7 @@ To run this project locally:
 ## App Icon :
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" width="50%" />
+  <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" />
 </p>
 <p align="center">
   *The app icon reflects the vibrant, musical theme of the Xylophone.*
@@ -66,7 +66,7 @@ To run this project locally:
 Here’s a short video showcasing the app's functionality:
 
 <p align="center">
-  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="50%" />
+  <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="30%" />
 </p>
 
 [Watch Working Video](ProjectOutputs/WorkingVideo/workingVideo.mp4)
