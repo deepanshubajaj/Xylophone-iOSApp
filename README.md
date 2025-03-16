@@ -69,4 +69,4 @@ Here’s a short video showcasing the app's functionality:
   <img src="ProjectOutputs/WorkingVideo/workingVideo.gif" alt="Working App" width="30%" />
 </p>
 
-[Watch Working Video](ProjectOutputs/WorkingVideo/workingVideo.mp4)
+[Watch Working Video](ProjectOutputs/WorkingVideo/workingVideo.MP4)
